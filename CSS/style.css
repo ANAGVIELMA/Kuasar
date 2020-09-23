@@ -1,5 +1,5 @@
-@import "/CSS/header.css";
-@import "/CSS/footer.css";
+@import "CSS/header.css";
+@import "../CSS/footer.css";
 @import "/CSS/sec1.css";
 @import "/CSS/sec2.css";
 @import "/CSS/sec3.css";
