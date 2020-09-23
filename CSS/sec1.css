@@ -6,7 +6,7 @@
     width: 100%;
 }
 #Laptop{
-    background-image: url(../Assets/SVG/Laptop.svg);
+    background-image: url(Assets/SVG/Laptop.svg);
     background-repeat: no-repeat;
     height: 600px; width: 600px;
     position: absolute;
