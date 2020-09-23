@@ -17,5 +17,9 @@ html, body, section, nav, ul, li, dl, dd, dt, h1, h2,h3, p, svg, div{
 }
 h2{
     color: #0C1041;
-    font-weight: 900;
+    font-weight: 700;
+    font-size: 3rem;
+}
+h1{
+    font-size: 4rem;
 }

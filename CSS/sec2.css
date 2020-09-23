@@ -73,8 +73,10 @@
     padding-top: 10px;
 }
 #TituloSec2{
+    text-align: center;
     position: relative;
     top: 90px;
     left: -50px;
     z-index: 50;
+    width: 280px;
 }

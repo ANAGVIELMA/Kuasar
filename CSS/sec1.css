@@ -13,18 +13,19 @@
     top:30%; left: 40%;
 }
 .contentSection1{
-    text-align:center;
+    text-align:left;
     color: white;
     height: 600px; width: 300px;
     position: absolute;
-    top:40%; left: 20%;
+    top:25%; left: 22%;
+}
+.contentSection1 p{
+    margin-bottom: 20px;
 }
 .Section1 {
     text-align:center;
     width: 140px;
-}
-.Section1{
-    margin: auto;
+    margin: 0;
 }
 #cuadradoVerde{
     height: 100px; width: 100px;
@@ -46,4 +47,8 @@
     position: absolute;
     top:370PX; left: 10%;
     z-index: -1;
+}
+h1{
+    text-align: left;
+    margin-bottom: 10px;
 }
