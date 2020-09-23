@@ -1,0 +1,55 @@
+footer{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(29, 28, 28);
+
+}
+footer article{
+    display: flex;
+    justify-content: center;
+}
+#SecCopy{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    display: flex;
+    flex-direction: column;
+}
+.col{
+    color:whitesmoke;
+    width: 25%;
+    margin: 25px 0;
+}
+#RRSS{
+    display: flex;
+    flex-direction: row;
+}
+h4{
+    color: gray;
+    font-weight: 100;
+}
+.col a{
+    padding-bottom: 20px;
+}
+.col a:hover{
+    color: #5470FD;
+}
+#copyright{
+    padding-top: 10px;
+    border-top: gray 0.5px solid;
+    width: 80%;
+    color: gray;
+    font-size: xx-small;
+    text-align: center;
+}
+.lSS{
+    width: 20px; height: 20px;
+    margin-right: 5px;
+}
+#LogoDribbl:hover{
+    fill: #5470FD;
+}

@@ -1,0 +1,21 @@
+@import "/CSS/header.css";
+@import "/CSS/footer.css";
+@import "/CSS/sec1.css";
+@import "/CSS/sec2.css";
+@import "/CSS/sec3.css";
+@import "/CSS/sec4.css";
+@import "/CSS/sec5.css";
+@import "/CSS/sec6.css";
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+
+}
+html, body, section, nav, ul, li, dl, dd, dt, h1, h2,h3, p, svg, div{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    color: #0C1041;
+    font-weight: 900;
+}

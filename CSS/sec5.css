@@ -1,0 +1,23 @@
+#ContSect5{
+    padding-top: 160px;
+    padding-left: 200px;
+}
+#Sec5{
+    margin-top: 100px;
+    padding-bottom: 70px;
+    width: 100%;
+    background-image: url(/Assets/SVG/Fondo\ Seccion\ 5.svg);
+    background-size: cover;
+}
+#MapaGoogle{
+    margin: 20px 0;
+    background-color: white;
+    height: 300px;
+    width: 600px;
+}
+.CAS5{
+    margin: 20px 200px;
+    width: 125px;
+    background-color: #0C1041;
+}
+

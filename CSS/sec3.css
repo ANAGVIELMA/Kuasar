@@ -1,0 +1,71 @@
+#Sec3{
+    background-image: url(/Assets/SVG/Fondo\ Seccion\ 3.svg);
+    background-repeat: repeat-x;
+
+    width: 100%;
+}
+#TituloSec3{
+    padding-top: 30px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#ContentProduct{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#Product1{
+    width:35%;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: flex-end;
+    border-right: white 4px dashed;
+}
+#Product2{
+    width: 35%;
+    margin-left: 30px;
+
+}
+.pProd1{
+    text-align: right;
+    
+}
+.illustProd{
+    height: 200px;
+    width: 350px;
+    border: gray 2px dashed;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+#cuad1Sec3{
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 180px;
+    left: -340px;
+}
+#cuad2Sec3{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    top: -10px;
+    left: -10px;
+}
+
+#FlechaVerde3{
+    height: 120px;
+    width: 120px;
+    margin: 0;
+    margin-left: 20PX;
+    padding: 0;
+}
+#FlechaVerde2{
+    height: 120px;
+    width: 120px;
+    margin-left: -30PX;
+    padding: 0;
+}
