@@ -6,7 +6,7 @@
     margin-top: 100px;
     padding-bottom: 70px;
     width: 100%;
-    background-image: url(/Assets/SVG/Fondo\ Seccion\ 5.svg);
+    background-image: url(../Assets/SVG/Fondo\ Seccion\ 5.svg);
     background-size: cover;
 }
 #MapaGoogle{
